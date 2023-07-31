@@ -18,4 +18,3 @@ export default function TodoList({ $target, initialState }) {
   };
   this.render();
 }
-mwu - simple - todo1004;
